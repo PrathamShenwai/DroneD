@@ -1,0 +1,12 @@
+names:
+- drone
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: iisc-dd
+  url: https://universe.roboflow.com/pratham-research/iisc-dd/dataset/5
+  version: 5
+  workspace: pratham-research
+test: ../test/images
+train: IISc-DD-5/train/images
+val: IISc-DD-5/valid/images
